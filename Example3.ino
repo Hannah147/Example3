@@ -9,7 +9,7 @@ void setup() {
   // Some Code
   lcd.begin(16, 2);
   lcd.print("My first Program");
-  delay(3000);
+  delay(2000);
 
 
 }
